@@ -1,0 +1,1 @@
+https://excellmedia.dl.sourceforge.net/project/geoserver/GeoServer/2.18.0/geoserver-2.18.0-bin.zip
